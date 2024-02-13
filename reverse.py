@@ -1,4 +1,4 @@
-def reverse(input):
+def reverses(input):
     sentence = list(input.split(" "))
     sentence.reverse()
 
